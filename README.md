@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Paresh.</h1>
-<h3 align="center">A passionate IT Engineer Interested in Full Stack Web Development.</h3>
+<h3 align="center">A passionate IT Engineer Interested in Cloud DevSecOps</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pareshrp" alt="pareshrp" /> </p>
 
