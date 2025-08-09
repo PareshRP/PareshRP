@@ -45,6 +45,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pareshrp&show_icons=true&locale=en" alt="pareshrp" /></p>
 
-![](https://leetcode.com/u/PareshRP/?ext=heatmap)
+<p>&nbsp;<img align="center" src="![](https://leetcode.com/u/PareshRP/?ext=heatmap)" alt="pareshrp" /></p>
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pareshrp&" alt="pareshrp" /></p> -->
